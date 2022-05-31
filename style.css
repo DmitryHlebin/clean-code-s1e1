@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.matrix-block {
+.matrix-link-block {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.matrix-block img {
+.matrix-link-block img {
   width: 100%;
 }
-.matrix-block .more_inf {
+.matrix-link-block .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.matrix-block { text-align: center;
+.matrix-link-block { text-align: center;
 }
 }
 .centered-main-page-element {
